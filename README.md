@@ -3,9 +3,9 @@
 <p>In this game, the winner is the player who makes his opponent place a serial row, column or a slant</p>
 <p>The game allows you to choose wether to play against the computer or another player, and to choose the board's size from 3x3 to 9x9</p>
 <h2>Enjoy!</h2>
-<img src="./reverse1.png">
+<img src="reverse1.png">
 <br>
-<img src="./reverse2.png">
+<img src="reverse2.png">
 <br>
-<img src="./reverse3.png">
+<img src="reverse3.png">
 <br>
